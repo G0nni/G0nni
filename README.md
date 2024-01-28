@@ -1,4 +1,5 @@
 ### Hi there 👋
+![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=votre_nom_utilisateur&show_icons=true&theme=radical)
 
 <!--
 **G0nni/G0nni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
