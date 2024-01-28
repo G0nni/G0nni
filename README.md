@@ -1,4 +1,15 @@
 ### Hi there 👋
+
+
+## Contact
+
+- 📧 Email : [votre@email.com]
+- 💬 LinkedIn : [lien vers votre profil LinkedIn]
+- 🐦 Twitter : [@votre_nom_twitter]
+- ...
+
+
+
 ![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=G0nni&show_icons=true&theme=radical)
 
 <!--
