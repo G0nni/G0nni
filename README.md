@@ -4,7 +4,8 @@
 ## Contact
 
 - 💬 LinkedIn : [lien vers votre profil LinkedIn]
-- ![X (formerly Twitter) URL]([https://img.shields.io/twitter/url](https://twitter.com/GonniSketch))
+![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2FGonniSketch)
+
 
 - ...
 
