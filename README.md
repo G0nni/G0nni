@@ -3,9 +3,9 @@
 
 ## Contact
 
-- 📧 Email : [votre@email.com]
 - 💬 LinkedIn : [lien vers votre profil LinkedIn]
-- 🐦 Twitter : [@votre_nom_twitter]
+- ![X (formerly Twitter) URL](https://img.shields.io/twitter/url)
+
 - ...
 
 
