@@ -7,12 +7,7 @@
 ![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2FGonniSketch&style=social)
 
 
-
-- ...
-
-
-
-![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=G0nni&show_icons=true&theme=radical)
+![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2FGonniSketch&style=social&label=Twitter)
 
 <!--
 **G0nni/G0nni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
