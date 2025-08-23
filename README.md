@@ -17,5 +17,7 @@ Développeur web, je bricole surtout avec Next.js et la stack T3. J’aime bien 
 ## 📫 Me contacter
 
 - [LinkedIn](https://www.linkedin.com/in/nicolas-cros/)
+- [Bsky](https://bsky.app/profile/gonni.bsky.social)
+- [Twitter](https://x.com/G0nnii)
 
 ---
