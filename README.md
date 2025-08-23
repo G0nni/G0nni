@@ -1,4 +1,4 @@
-# Salut, moi c’est G0nni 👋
+# Salut, moi c’est Nico 👋
 
 Développeur web, je bricole surtout avec Next.js et la stack T3. J’aime bien toucher à tout, du back au front, même si je ne me considère pas encore comme un “fullstack confirmé”.
 
