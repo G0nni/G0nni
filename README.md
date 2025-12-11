@@ -12,6 +12,8 @@ Développeur web, je bricole surtout avec Next.js et la stack T3. J’aime bien 
 
 - [Site vitrine pour Soso Dedeck](https://soso-dedeck.fr/)  
   J’ai tout réalisé de A à Z pour une amie illustratrice : design, développement, intégration… Un projet axé sur le visuel pour mettre en valeur ses créations.
+- [Artist Discovery](https://artist-discovery.com/)
+  Une plateforme qui met en avant des artistes de tout type de manière équitable. Si tu es artiste, tu peux y créer ton portfolio et entrer dans un système de mise en avant tournante pour offrir une visibilité juste à tout le monde.
 - (D’autres projets à venir, restez connectés !)
 
 ## 📫 Me contacter
