@@ -16,7 +16,6 @@ Développeur web, je bricole surtout avec Next.js et la stack T3. J’aime bien 
   Une plateforme qui met en avant des artistes de tout type de manière équitable. Si tu es artiste, tu peux y créer ton portfolio et entrer dans un système de mise en avant tournante pour offrir une visibilité juste à tout le monde.
 - (D’autres projets à venir, restez connectés !)
   
-
 ## 📫 Me contacter
 
 - [LinkedIn](https://www.linkedin.com/in/nicolas-cros/)
