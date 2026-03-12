@@ -1,25 +1,51 @@
-# Salut, moi c’est Nico 👋
+# 👋 Hey, moi c'est Nico
 
-Développeur web, je bricole surtout avec Next.js et la stack T3. J’aime bien toucher à tout, du back au front, même si je ne me considère pas encore comme un “fullstack confirmé”.
-
-## 🚀 À propos de moi
-
-- Je développe principalement avec **Next.js** et la **Stack T3** (TypeScript, Tailwind, tRPC…).
-- J’apprends surtout en pratiquant : c’est en forgeant qu’on devient forgeron !
-- Je préfère rester naturel dans ma façon de coder et d’échanger, sans prise de tête.
-
-## 🎨 Projets
-
-- [Site vitrine pour Soso Dedeck](https://soso-dedeck.fr/)  
-  J’ai tout réalisé de A à Z pour une amie illustratrice : design, développement, intégration… Un projet axé sur le visuel pour mettre en valeur ses créations.
-- [Artist Discovery](https://artist-discovery.com/)
-  Une plateforme qui met en avant des artistes de tout type de manière équitable. Si tu es artiste, tu peux y créer ton portfolio et entrer dans un système de mise en avant tournante pour offrir une visibilité juste à tout le monde.
-- (D’autres projets à venir, restez connectés !)
-  
-## 📫 Me contacter
-
-- [LinkedIn](https://www.linkedin.com/in/nicolas-cros/)
-- [Bsky](https://bsky.app/profile/gonni.bsky.social)
-- [Twitter](https://x.com/G0nnii)
+💻 Développeur web orienté **TypeScript / Next.js**
+J'aime construire des projets concrets et apprendre en pratiquant.
 
 ---
+
+## ⚙️ Stack
+
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge\&logo=next.js)
+![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge\&logo=typescript)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge\&logo=tailwindcss)
+![tRPC](https://img.shields.io/badge/tRPC-2596be?style=for-the-badge)
+
+---
+
+## 🚀 Projets
+
+### 🎨 Artist Discovery
+
+Plateforme qui met en avant des artistes via un système de visibilité tournante.
+
+🔗 https://artist-discovery.com/
+
+### 🖌️ Soso Dedeck
+
+Site vitrine réalisé de A à Z pour une illustratrice.
+
+🔗 https://soso-dedeck.fr/
+
+---
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=G0nni\&show_icons=true\&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=G0nni\&layout=compact\&theme=tokyonight)
+
+---
+
+## 📫 Me contacter
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nicolas%20Cros-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/nicolas-cros/)
+
+[![Bluesky](https://img.shields.io/badge/Bluesky-Profile-blue?style=for-the-badge)](https://bsky.app/profile/gonni.bsky.social)
+
+[![X](https://img.shields.io/badge/X-@G0nnii-black?style=for-the-badge\&logo=twitter)](https://x.com/G0nnii)
+
+---
+
+⭐ Toujours en train d'apprendre et de construire de nouveaux projets.
